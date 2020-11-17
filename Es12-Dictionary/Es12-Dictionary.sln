@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es12-Dictionary", "Es12-Dictionary\Es12-Dictionary.csproj", "{4EE18B78-F2F7-439F-BA73-D2E604AF9FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE18B78-F2F7-439F-BA73-D2E604AF9FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE18B78-F2F7-439F-BA73-D2E604AF9FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE18B78-F2F7-439F-BA73-D2E604AF9FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE18B78-F2F7-439F-BA73-D2E604AF9FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A47F18B-5099-4D86-B0F0-A520EC353370}
+	EndGlobalSection
+EndGlobal

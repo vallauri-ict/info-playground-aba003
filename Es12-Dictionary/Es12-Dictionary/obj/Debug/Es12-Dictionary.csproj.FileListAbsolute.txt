@@ -1,0 +1,10 @@
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\bin\Debug\Es12-Dictionary.exe.config
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\bin\Debug\Es12-Dictionary.exe
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\bin\Debug\Es12-Dictionary.pdb
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12-Dictionary.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12_Dictionary.Form1.resources
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12_Dictionary.Properties.Resources.resources
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12-Dictionary.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12-Dictionary.exe
+C:\Users\matte\Desktop\Es12-Dictionary\Es12-Dictionary\obj\Debug\Es12-Dictionary.pdb
