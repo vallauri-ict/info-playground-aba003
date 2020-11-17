@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\bin\Debug\Gestione liste.exe.config
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\bin\Debug\Gestione liste.exe
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\bin\Debug\Gestione liste.pdb
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione liste.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione_liste.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione_liste.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione liste.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione liste.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione liste.exe
+D:\4B Inf 2020 2021\Informatica\Gestione liste\Gestione liste\obj\Debug\Gestione liste.pdb
