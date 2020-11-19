@@ -1,0 +1,19 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\_13_NegozioDictionary.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\_13_NegozioDictionary.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\13-NegozioDictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.pdb
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.exe.config
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.exe
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\bin\Debug\13-NegozioDictionary.pdb
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\_13_NegozioDictionary.Form1.resources
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\_13_NegozioDictionary.Properties.Resources.resources
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.exe
+C:\Users\matte\Desktop\Es13 - Gestione Dictionary\13-NegozioDictionary\obj\Debug\13-NegozioDictionary.pdb
