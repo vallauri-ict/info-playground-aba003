@@ -1,0 +1,10 @@
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\bin\Debug\Es15-Pile.exe.config
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\bin\Debug\Es15-Pile.exe
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\bin\Debug\Es15-Pile.pdb
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15-Pile.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15_Pile.Properties.Resources.resources
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15-Pile.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15-Pile.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15-Pile.exe
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15-Pile.pdb
+C:\Users\matte\Desktop\Es15-Pile\Es15-Pile\obj\Debug\Es15_Pile.Form1.resources
