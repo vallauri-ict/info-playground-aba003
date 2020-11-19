@@ -1,0 +1,20 @@
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.exe.config
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.exe
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.pdb
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csprojAssemblyReference.cache
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14_Pronto_soccorso.Form1.resources
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14_Pronto_soccorso.Properties.Resources.resources
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csproj.GenerateResource.cache
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.exe
+C:\Users\matte\source\repos\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.pdb
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.exe.config
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.exe
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\bin\Debug\Es14-Pronto soccorso.pdb
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14_Pronto_soccorso.Form1.resources
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14_Pronto_soccorso.Properties.Resources.resources
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.exe
+C:\Users\matte\Desktop\Es14-Pronto soccorso\Es14-Pronto soccorso\obj\Debug\Es14-Pronto soccorso.pdb
