@@ -1,0 +1,20 @@
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe.config
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.pdb
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.exe
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.pdb
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe.config
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\bin\Debug\Classi derivate.pdb
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Form1.resources
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Properties.Resources.resources
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi derivate.exe
+C:\Users\matte\Desktop\Classi derivate\Classi derivate\obj\Debug\Classi derivate.pdb
