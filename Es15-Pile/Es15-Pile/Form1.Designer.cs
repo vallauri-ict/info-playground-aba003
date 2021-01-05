@@ -88,7 +88,7 @@
             // 
             // btnAggiungi
             // 
-            this.btnAggiungi.Location = new System.Drawing.Point(16, 95);
+            this.btnAggiungi.Location = new System.Drawing.Point(16, 89);
             this.btnAggiungi.Name = "btnAggiungi";
             this.btnAggiungi.Size = new System.Drawing.Size(158, 47);
             this.btnAggiungi.TabIndex = 6;

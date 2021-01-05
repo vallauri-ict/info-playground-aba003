@@ -1,0 +1,10 @@
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\bin\Debug\18-Ereditarietà Esercizio Guidato 2.exe.config
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\bin\Debug\18-Ereditarietà Esercizio Guidato 2.exe
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\bin\Debug\18-Ereditarietà Esercizio Guidato 2.pdb
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\18-Ereditarietà Esercizio Guidato 2.csprojAssemblyReference.cache
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\_18_Ereditarietà_Esercizio_Guidato_2.Form1.resources
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\_18_Ereditarietà_Esercizio_Guidato_2.Properties.Resources.resources
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\18-Ereditarietà Esercizio Guidato 2.csproj.GenerateResource.cache
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\18-Ereditarietà Esercizio Guidato 2.csproj.CoreCompileInputs.cache
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\18-Ereditarietà Esercizio Guidato 2.exe
+C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\18-Ereditarietà Esercizio Guidato 2\18-Ereditarietà Esercizio Guidato 2\obj\Debug\18-Ereditarietà Esercizio Guidato 2.pdb
