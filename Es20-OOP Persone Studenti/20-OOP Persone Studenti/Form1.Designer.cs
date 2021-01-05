@@ -38,11 +38,11 @@
             this.label4 = new System.Windows.Forms.Label();
             this.btnCarica = new System.Windows.Forms.Button();
             this.lstVwStudenti = new System.Windows.Forms.ListView();
-            this.btnVisualizza = new System.Windows.Forms.Button();
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.txtVoto = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.btnInserisciVoto = new System.Windows.Forms.Button();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnMedia = new System.Windows.Forms.Button();
+            this.btnCaricavoto = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -124,23 +124,14 @@
             this.lstVwStudenti.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1});
             this.lstVwStudenti.HideSelection = false;
-            this.lstVwStudenti.Location = new System.Drawing.Point(244, 57);
+            this.lstVwStudenti.Location = new System.Drawing.Point(244, 10);
+            this.lstVwStudenti.MultiSelect = false;
             this.lstVwStudenti.Name = "lstVwStudenti";
-            this.lstVwStudenti.Size = new System.Drawing.Size(423, 185);
+            this.lstVwStudenti.Size = new System.Drawing.Size(423, 232);
             this.lstVwStudenti.TabIndex = 9;
             this.lstVwStudenti.UseCompatibleStateImageBehavior = false;
             this.lstVwStudenti.View = System.Windows.Forms.View.List;
-            this.lstVwStudenti.SelectedIndexChanged += new System.EventHandler(this.lstVwStudenti_SelectedIndexChanged);
-            // 
-            // btnVisualizza
-            // 
-            this.btnVisualizza.Location = new System.Drawing.Point(244, 10);
-            this.btnVisualizza.Name = "btnVisualizza";
-            this.btnVisualizza.Size = new System.Drawing.Size(423, 40);
-            this.btnVisualizza.TabIndex = 10;
-            this.btnVisualizza.Text = "Visualizza";
-            this.btnVisualizza.UseVisualStyleBackColor = true;
-            this.btnVisualizza.Click += new System.EventHandler(this.btnVisualizza_Click);
+            this.lstVwStudenti.Click += new System.EventHandler(this.lstVwStudenti_Click);
             // 
             // txtVoto
             // 
@@ -158,24 +149,35 @@
             this.label5.TabIndex = 11;
             this.label5.Text = "Voto:";
             // 
-            // btnInserisciVoto
+            // btnMedia
             // 
-            this.btnInserisciVoto.Location = new System.Drawing.Point(16, 202);
-            this.btnInserisciVoto.Name = "btnInserisciVoto";
-            this.btnInserisciVoto.Size = new System.Drawing.Size(198, 40);
-            this.btnInserisciVoto.TabIndex = 13;
-            this.btnInserisciVoto.Text = "Inserisci Voto";
-            this.btnInserisciVoto.UseVisualStyleBackColor = true;
+            this.btnMedia.Location = new System.Drawing.Point(16, 255);
+            this.btnMedia.Name = "btnMedia";
+            this.btnMedia.Size = new System.Drawing.Size(198, 40);
+            this.btnMedia.TabIndex = 13;
+            this.btnMedia.Text = "Media";
+            this.btnMedia.UseVisualStyleBackColor = true;
+            this.btnMedia.Click += new System.EventHandler(this.btnMedia_Click);
+            // 
+            // btnCaricavoto
+            // 
+            this.btnCaricavoto.Location = new System.Drawing.Point(16, 209);
+            this.btnCaricavoto.Name = "btnCaricavoto";
+            this.btnCaricavoto.Size = new System.Drawing.Size(198, 40);
+            this.btnCaricavoto.TabIndex = 14;
+            this.btnCaricavoto.Text = "Iserisci voto";
+            this.btnCaricavoto.UseVisualStyleBackColor = true;
+            this.btnCaricavoto.Click += new System.EventHandler(this.btnCaricavoto_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(679, 253);
-            this.Controls.Add(this.btnInserisciVoto);
+            this.ClientSize = new System.Drawing.Size(679, 317);
+            this.Controls.Add(this.btnCaricavoto);
+            this.Controls.Add(this.btnMedia);
             this.Controls.Add(this.txtVoto);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.btnVisualizza);
             this.Controls.Add(this.lstVwStudenti);
             this.Controls.Add(this.btnCarica);
             this.Controls.Add(this.txtSesso);
@@ -205,11 +207,11 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnCarica;
         private System.Windows.Forms.ListView lstVwStudenti;
-        private System.Windows.Forms.Button btnVisualizza;
         private System.Windows.Forms.TextBox txtVoto;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button btnInserisciVoto;
         private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.Button btnMedia;
+        private System.Windows.Forms.Button btnCaricavoto;
     }
 }
 

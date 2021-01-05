@@ -14,10 +14,6 @@ namespace _20_OOP_Persone_Studenti
 
         public void SetAttributes(string nome, string cognome, string sesso, int eta)
         {
-            /*if ()
-            {
-
-            }*/
             this.nome = nome;
             this.cognome = cognome;
             this.sesso = sesso;

@@ -21,28 +21,66 @@ namespace _20_OOP_Persone_Studenti
 
         private void btnCarica_Click(object sender, EventArgs e)
         {
-            Studente s = new Studente();
-            s.SetAttributes(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
-            lstStudenti.Add(s);
-            lstVwStudenti.Items.Add(s.getCognome());
-        }
-
-        private void btnVisualizza_Click(object sender, EventArgs e)
-        {
-            Studente s = new Studente();
-            s = lstVwStudenti.Find(Studente => Studente.getCognome() == lstVwStudenti.SelectedItems[0].Text);
-
-        }
-
-        private void lstVwStudenti_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            string cognome = lstVwStudenti.SelectedItems[0].Text;
-            foreach (Studente student in lstStudenti)
+            try
             {
-                if(student.getCognome() == cognome)
+                Studente s = new Studente();
+                s.SetAttributes(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
+                lstStudenti.Add(s);
+                lstVwStudenti.Items.Add(s.getCognome());
+                txtNome.Text = "";
+                txtCognome.Text = "";
+                txtSesso.Text = "";
+                txtEta.Text = "";
+                
+
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Campi inseriti errati");
+            }
+           
+        }
+
+        private void lstVwStudenti_Click(object sender, EventArgs e)
+        {
+           
+            
+        }
+
+        private void btnMedia_Click(object sender, EventArgs e)
+        {
+            Studente s = new Studente();
+            s = lstStudenti.Find(stud => stud.getCognome() == lstVwStudenti.SelectedItems[0].Text);
+            MessageBox.Show("I voti di " + s.getCognome() + " sono: ");
+            foreach (var voto in s.voti)
+            {
+                MessageBox.Show(voto.ToString());
+            }
+        }
+
+        private void btnCaricavoto_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string cognome = lstVwStudenti.SelectedItems[0].Text;
+                int voto = Convert.ToInt32(txtVoto.Text);
+                foreach (var item in lstStudenti)
                 {
-                    student.voti.Add(Convert.ToInt32(txtVoto.Text));
+                    if (cognome == item.getCognome())
+                    {
+                        item.voti.Add(voto);
+                    }
                 }
+                txtVoto.Text = "";
+                MessageBox.Show("Voto inserito correttamente");
+
+
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Voto non inserito");
             }
         }
     }
