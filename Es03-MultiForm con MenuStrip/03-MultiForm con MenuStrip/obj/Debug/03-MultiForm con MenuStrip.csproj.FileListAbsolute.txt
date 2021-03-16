@@ -1,0 +1,28 @@
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.exe.config
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.exe
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.pdb
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csprojAssemblyReference.cache
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Form1.resources
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Properties.Resources.resources
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csproj.GenerateResource.cache
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.exe
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.pdb
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Form2.resources
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Figlia.resources
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Figlia2.resources
+C:\Users\iangj\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.FormModale.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.exe.config
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.exe
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\bin\Debug\03-MultiForm con MenuStrip.pdb
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Figlia.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Figlia2.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Form1.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Form2.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.FormModale.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\_03_MultiForm_con_MenuStrip.Properties.Resources.resources
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.exe
+C:\Users\matte\Desktop\03-MultiForm con MenuStrip\03-MultiForm con MenuStrip\obj\Debug\03-MultiForm con MenuStrip.pdb
