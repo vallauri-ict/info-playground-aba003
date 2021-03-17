@@ -5,6 +5,7 @@ namespace _31_SecondoEsercizioDispense_Delegate_
 {
     public partial class Form1 : Form
     {
+
         Counter cnt;
         public Form1()
         {
@@ -32,7 +33,7 @@ namespace _31_SecondoEsercizioDispense_Delegate_
 
         private void btnIncrementa_Click(object sender, EventArgs e)
         {
-            cnt.Incrementa();
+            cnt.Incrementa();//necessaria revisione in qunto non funzionante
         }
     }
 }
