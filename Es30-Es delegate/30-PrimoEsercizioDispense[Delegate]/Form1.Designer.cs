@@ -33,9 +33,10 @@
             // 
             // btnSalva
             // 
-            this.btnSalva.Location = new System.Drawing.Point(48, 59);
+            this.btnSalva.Location = new System.Drawing.Point(64, 73);
+            this.btnSalva.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSalva.Name = "btnSalva";
-            this.btnSalva.Size = new System.Drawing.Size(111, 25);
+            this.btnSalva.Size = new System.Drawing.Size(148, 31);
             this.btnSalva.TabIndex = 0;
             this.btnSalva.Text = "Salva";
             this.btnSalva.UseVisualStyleBackColor = true;
@@ -43,12 +44,14 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(218, 149);
+            this.ClientSize = new System.Drawing.Size(291, 183);
             this.Controls.Add(this.btnSalva);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

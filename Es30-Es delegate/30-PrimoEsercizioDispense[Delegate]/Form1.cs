@@ -34,5 +34,10 @@ namespace _30_PrimoEsercizioDispense_Delegate_
         {
             MessageBox.Show("Secondo gestore di evento");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ex 1 con i delegate");
+        }
     }
 }
