@@ -1,6 +1,4 @@
-# info-playground-MarengoSimone
 
-_Stud. Marengo Simone_
 
 ## Progetto 26
 ## Obiettivo: Simulare una connessione tramite un id con le interfacce

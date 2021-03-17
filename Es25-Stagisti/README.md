@@ -1,6 +1,4 @@
-# info-playground-MarengoSimone
 
-_Stud. Marengo Simone_
 
 ## Progetto 25
 ## Obiettivo: Realizzare la gestione degli studenti e degli stagisti della scuola. 

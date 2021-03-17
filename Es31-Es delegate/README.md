@@ -1,6 +1,5 @@
-# info-playground-MarengoSimone
+# info-playground
 
-_Stud. Marengo Simone_
 
 ## Progetto 31:
 Secondo esercizio delle dispense sui **delegate** del prof.Mana (robertomana.it)

@@ -1,6 +1,6 @@
-# info-playground-MarengoSimone
 
-_Stud. Marengo Simone_
+
+
 
 ## Progetto 27
 ## Obiettivo: Realizzare una semplice visualizzazione di un vettore con l'interfaccia Comparable
